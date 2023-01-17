@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fc9a2af-70a3-4f83-bd86-cb42fec5ef04" name="Default Changelist" comment="proj 3 phase 2 updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Savingfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Savingfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/byow/Core/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/byow/Core/Engine.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kGNjTTiwBjXVhcSImUAOXfiQQA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/byow/Core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RandomRoomWorld">
+    <configuration name="DemoInputSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.InputDemo.DemoInputSource" />
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.InputDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.Core.Main" />
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryGame" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.lab13.MemoryGame" />
+      <module name="proj3" />
+      <option name="PROGRAM_PARAMETERS" value="344" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.lab13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomRoomWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.Core.RandomRoomWorld" />
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomWorldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.lab12.RandomWorldDemo" />
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byow.Core.demoTest" />
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byow.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" value="" />
+      <option name="vmParameters" value="" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" value="" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" value="" />
+      <option name="vmParameters" value="" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" value="" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RandomRoomWorld" />
+        <item itemvalue="Application.DemoInputSource" />
+        <item itemvalue="Application.demoTest" />
+        <item itemvalue="Application.RandomWorldDemo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fc9a2af-70a3-4f83-bd86-cb42fec5ef04" name="Default Changelist" comment="" />
+      <created>1605323102891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605323102891</updated>
+    </task>
+    <task id="LOCAL-00001" summary="proj 3 phrase 1 updated">
+      <created>1605745999717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605745999717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="proj 3 phrase 1 updated">
+      <created>1605770330297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605770330297</updated>
+    </task>
+    <task id="LOCAL-00003" summary="proj 3 phrase 1 updated">
+      <created>1605850424962</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605850424962</updated>
+    </task>
+    <task id="LOCAL-00004" summary="proj 3 phase 2 updated">
+      <created>1606398826960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606398826960</updated>
+    </task>
+    <task id="LOCAL-00005" summary="proj 3 phase 2 updated">
+      <created>1606456923187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606456923187</updated>
+    </task>
+    <task id="LOCAL-00006" summary="proj 3 phase 2 updated">
+      <created>1606532961914</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606532961914</updated>
+    </task>
+    <task id="LOCAL-00007" summary="proj 3 phase 2 updated">
+      <created>1606624430307</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606624430307</updated>
+    </task>
+    <task id="LOCAL-00008" summary="proj 3 phase 2 updated">
+      <created>1606635616963</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606635616963</updated>
+    </task>
+    <task id="LOCAL-00009" summary="proj 3 phase 2 updated">
+      <created>1606635899365</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606635899365</updated>
+    </task>
+    <task id="LOCAL-00010" summary="proj 3 phase 2 updated">
+      <created>1606637565207</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606637565208</updated>
+    </task>
+    <task id="LOCAL-00011" summary="proj 3 phase 2 updated">
+      <created>1606638826202</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606638826202</updated>
+    </task>
+    <task id="LOCAL-00012" summary="proj 3 phase 2 updated">
+      <created>1606639452525</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606639452525</updated>
+    </task>
+    <task id="LOCAL-00013" summary="proj 3 phase 2 updated">
+      <created>1606707704336</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606707704336</updated>
+    </task>
+    <task id="LOCAL-00014" summary="proj 3 phase 2 updated">
+      <created>1606709231109</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606709231109</updated>
+    </task>
+    <task id="LOCAL-00015" summary="proj 3 phase 2 updated">
+      <created>1606710151946</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606710151946</updated>
+    </task>
+    <task id="LOCAL-00016" summary="proj 3 phase 2 updated">
+      <created>1606715587202</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606715587202</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="proj3 Engine" />
+    <MESSAGE value="proj3 main" />
+    <MESSAGE value="proj3 door mini change" />
+    <MESSAGE value="proj3 door error fixed" />
+    <MESSAGE value="proj 3 phrase 1 updated" />
+    <MESSAGE value="proj 3 phrase 2 updated" />
+    <MESSAGE value="proj 3 phase 2 updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="proj 3 phase 2 updated" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606479314736">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="631" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.820@0.23.1440.820" timestamp="1606479314736" />
+    <state x="660" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1605671774777">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="660" y="136" key="#com.intellij.ide.util.MemberChooser/0.23.1440.820@0.23.1440.820" timestamp="1605671774777" />
+    <state x="698" y="329" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605670153199">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="698" y="329" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.820@0.23.1440.820" timestamp="1605670153199" />
+    <state x="538" y="186" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605860794644">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="538" y="186" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.820@0.23.1440.820" timestamp="1605860794644" />
+    <state width="1037" height="206" key="GridCell.Tab.0.bottom" timestamp="1606716341105">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606639202123" />
+    <state width="1037" height="206" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1606716341105" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1605924372578" />
+    <state width="1037" height="226" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1606710160728" />
+    <state width="1037" height="206" key="GridCell.Tab.0.center" timestamp="1606716341104">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606639202121" />
+    <state width="1037" height="206" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1606716341104" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1605924372576" />
+    <state width="1037" height="226" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1606710160727" />
+    <state width="1037" height="206" key="GridCell.Tab.0.left" timestamp="1606716341104">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606639202121" />
+    <state width="1037" height="206" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1606716341104" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1605924372576" />
+    <state width="1037" height="226" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1606710160727" />
+    <state width="1037" height="206" key="GridCell.Tab.0.right" timestamp="1606716341104">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606639202122" />
+    <state width="1037" height="206" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1606716341104" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1605924372578" />
+    <state width="1037" height="226" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1606710160727" />
+    <state width="1136" height="330" key="GridCell.Tab.1.bottom" timestamp="1606647152736">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605921174751" />
+    <state width="1136" height="330" key="GridCell.Tab.1.bottom/0.23.1440.820@0.23.1440.820" timestamp="1606647152736" />
+    <state width="1136" height="330" key="GridCell.Tab.1.center" timestamp="1606647152735">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1605921174745" />
+    <state width="1136" height="330" key="GridCell.Tab.1.center/0.23.1440.820@0.23.1440.820" timestamp="1606647152735" />
+    <state width="1136" height="330" key="GridCell.Tab.1.left" timestamp="1606647152735">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1605921174744" />
+    <state width="1136" height="330" key="GridCell.Tab.1.left/0.23.1440.820@0.23.1440.820" timestamp="1606647152735" />
+    <state width="1136" height="330" key="GridCell.Tab.1.right" timestamp="1606647152735">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1605921174750" />
+    <state width="1136" height="330" key="GridCell.Tab.1.right/0.23.1440.820@0.23.1440.820" timestamp="1606647152735" />
+    <state x="144" y="79" key="MergeDialog" timestamp="1605862143649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1605862143649" />
+    <state x="360" y="218" key="MultipleFileMergeDialog" timestamp="1605862143695">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="360" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1605862143695" />
+    <state x="416" y="0" key="SettingsEditor" timestamp="1605761137726">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="416" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605761137726" />
+    <state x="416" y="23" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1605323673408" />
+    <state x="416" y="23" key="SettingsEditor/0.23.1440.835@0.23.1440.835" timestamp="1605745905470" />
+    <state x="466" y="216" key="Vcs.Push.Dialog.v2" timestamp="1606715589304">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="466" y="212" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605925032289" />
+    <state x="466" y="216" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1606715589304" />
+    <state x="466" y="220" key="Vcs.Push.Dialog.v2/0.23.1440.835@0.23.1440.835" timestamp="1605746002990" />
+    <state x="466" y="229" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1606710153852" />
+    <state x="613" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606543207532">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="613" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.820@0.23.1440.820" timestamp="1606543207532" />
+    <state x="438" y="175" width="925" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606647232881">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="438" y="175" width="925" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.820@0.23.1440.820" timestamp="1606647232881" />
+    <state x="527" y="50" key="new project wizard" timestamp="1605676440548">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="527" y="50" key="new project wizard/0.23.1440.820@0.23.1440.820" timestamp="1605676440548" />
+    <state x="465" y="167" width="670" height="676" key="search.everywhere.popup" timestamp="1606375666677">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="465" y="167" width="670" height="676" key="search.everywhere.popup/0.23.1440.820@0.23.1440.820" timestamp="1606375666677" />
+    <state x="450" y="359" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605870447350">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="450" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1605766954218" />
+    <state x="450" y="359" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.820@0.23.1440.820" timestamp="1605870447350" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
